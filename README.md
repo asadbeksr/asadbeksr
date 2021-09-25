@@ -6,7 +6,7 @@ I’m a Front End Developer from Tashkent experienced in building responsive  an
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/bekdev/bekdev/master/assests/javascript-plain.svg" height="auto" width="40">
+<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg" height="auto" width="40">
 
 <img src="https://raw.githubusercontent.com/bekdev/bekdev/master/assests/react-original.svg" height="auto" width="40">
 
