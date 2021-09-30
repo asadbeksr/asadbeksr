@@ -31,7 +31,7 @@ I’m a Front End Developer from Tashkent experienced in building responsive  an
 
 ### :nerd_face: I'm currently learning:
 
-- React and Vue
+- React
 
 ### :thinking: I want to learn:
 
