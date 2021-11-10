@@ -1,7 +1,7 @@
 # ASADBEK SAVRONOV
 
 
-Tashkent, Uzbekistan asadbeksr@gmail.com github.com/bekdevuz +998(90)486-
+Tashkent, Uzbekistan asadbeksr@gmail.com github.com/bekdevuz +998(90)486-16
 
 ## PROFESSIONAL EXPERIENCE
 
