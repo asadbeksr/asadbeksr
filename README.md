@@ -20,11 +20,7 @@ I’m a Front End Developer from Tashkent experienced in building responsive  an
 
 <img src="/assests/sass-original.svg" height="auto" width="40">
 
-<img src="/assests/react-original.svg" height="auto" width="40">
-
 <img src="/assests/bootstrap-plain.svg" height="auto" width="40">
-
-<img src="/assests/visualstudio-plain.svg" height="auto" width="40">
 
 <img src="/assests/git-original.svg" height="auto" width="40">
 </p>
