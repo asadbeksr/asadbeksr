@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Asadbek!
 
-I’m a Front End Developer from Tashkent experienced in building responsive  and modern websites and web applications using native JavaScript, Firebase and React.
+I’m a Front End Developer from Tashkent experienced in building responsive  and modern websites and web applications using vanilla JavaScript, Firebase and React.
 
 ## Coding languages and Tech:
 
