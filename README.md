@@ -28,6 +28,7 @@ I’m a Front End Developer from Tashkent experienced in building responsive  an
 ### :nerd_face: I'm currently learning:
 
 - Next.js
+- Vue.js
 
 ### :thinking: I want to learn:
 
