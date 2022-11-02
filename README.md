@@ -35,4 +35,19 @@ I’m a Front End Developer from Tashkent experienced in building responsive  an
 - WebGL
 - Three.js
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=bekdevuz)
+
+<details>
+  <summary> Show Asadbek's Github Stats</summary>
+  <br>
+  
+  <a href="#">
+    <img align="center" alt="bekdevuz Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bekdevuz&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=331af0" />
+  </a>
+  
+  <a href="#">
+    <img align="center" alt="bekdevuz's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bekdevuz&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=331af0" />
+  </a>
+</details>
+
 
