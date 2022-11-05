@@ -41,7 +41,7 @@ I’m a Front End Developer from Tashkent experienced in building responsive  an
   </a>
   <br>
   <a href="#">
-    <img align="center" alt="Asadbek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asdabeksr&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=331af0" />
+    <img align="center" alt="Asadbek's Github Stats" src="https://github-readme-stats.vercel.app/api?username=asadbeksr&count_private=true&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=331af0" />
   </a>
 </details>
 
