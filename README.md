@@ -27,6 +27,7 @@ Frontend Developer with 2+ years of experience in building real-world projects w
 
 ### :nerd_face: I'm currently learning:
 
+- TypeScript
 - WebGL
 - Three.js
 
