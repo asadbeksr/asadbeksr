@@ -2,6 +2,8 @@
 
 Frontend Developer with 2+ years of experience in building real-world projects with stunning animations and interactions. With a passion for creating beautiful and responsive web applications, I am dedicated to delivering visually appealing and user-friendly interfaces.
 
+Website: www.asadbek.me
+
 ## Coding languages and Tech:
 
 <p align="left">
