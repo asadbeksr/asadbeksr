@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Asadbek!
 
-Frontend Developer with 2+ years of experience in building real-world projects with stunning animations and interactions. With a passion for creating beautiful and responsive web applications, I am dedicated to delivering visually appealing and user-friendly interfaces.
+Frontend Developer with 3+ years of experience in building real-world projects with stunning animations and interactions. With a passion for creating beautiful and responsive web applications, I am dedicated to delivering visually appealing and user-friendly interfaces.
 
 Website: www.asadbek.me
 
