@@ -1,50 +1,22 @@
-# Hi there 👋 I'm Asadbek!
+# Hi, I'm Asadbek 👋
 
-Frontend Developer with 3+ years of experience in building real-world projects with stunning animations and interactions. With a passion for creating beautiful and responsive web applications, I am dedicated to delivering visually appealing and user-friendly interfaces.
+I'm a Frontend Developer with 3+ years of experience crafting responsive, user-friendly web apps. Along the way, I’ve shared my thoughts on my [tech blog](https://www.asadbek.me/blog) and built some cool [projects](https://www.asadbek.me/projects). Curious to learn more? [Here’s my story](https://www.asadbek.me/about).
 
-Website: www.asadbek.me
+Website: [asadbek.me](https://www.asadbek.me)
 
-## Coding languages and Tech:
 
-<p align="left">
+## 🛠️ Tech Stack:
 
-<img src="/assests/javascript-plain.svg" height="auto" width="40">
+✦ React
+✦ Next.js
+✦ JavaScript
+✦ TypeScript
+✦ Tailwind CSS
 
-<img src="/assests/react-original.svg" height="auto" width="40">
+## 🌱 Currently Learning:
 
-<img src="/assests/nodejs-original.svg" height="auto" width="40">
-
-<img src="/assests/express-original.svg" height="auto" width="40">
-
-<img src="/assests/html5-original.svg" height="auto" width="40">
-
-<img src="/assests/css3-original.svg" height="auto" width="40">
-
-<img src="/assests/sass-original.svg" height="auto" width="40">
-
-<img src="/assests/bootstrap-plain.svg" height="auto" width="40">
-
-<img src="/assests/git-original.svg" height="auto" width="40">
-</p>
-
-### :nerd_face: I'm currently learning:
-
-- TypeScript
-- WebGL
-- Three.js
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=asadbeksr)
-
-<details>
-  <summary> Show Asadbek's Github Stats</summary>
-  <br>
-  
-  <a href="#">
-    <img align="center" alt="asadbeksr Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asadbeksr&layout=compact&langs_count=10&hide_border=true&show_icons=true&title_color=fff&icon_color=fff&text_color=fff&bg_color=331af0" />
-  </a>
-  <br>
- 
-</details>
+✦ Three.js
+✦ React Three Fiber
 
 
 
