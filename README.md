@@ -1,23 +1,5 @@
-# Hi, I'm Asadbek 👋
+### Software Engineer  
+Building fast, reliable, and elegant digital products that make an impact.  
 
-I'm a Frontend Developer with 3+ years of experience crafting responsive, user-friendly web apps. Along the way, I’ve shared my thoughts on my [tech blog](https://www.asadbek.me/blog) and built some cool [projects](https://www.asadbek.me/projects). Curious to learn more? [Here’s my story](https://www.asadbek.me/about).
-
-Website: [asadbek.me](https://www.asadbek.tech)
-
-
-## 🛠️ Tech Stack:
-
-✦ React
-✦ Next.js
-✦ JavaScript
-✦ TypeScript
-✦ Tailwind CSS
-
-## 🌱 Currently Learning:
-
-✦ Three.js
-✦ React Three Fiber
-
-
-
-
+🚀 **Tech Stack:** React · Next.js · TypeScript · Node.js · Tailwind CSS  
+✦  [asadbek.me](https://asadbek.me)
